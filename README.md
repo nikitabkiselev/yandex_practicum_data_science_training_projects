@@ -85,7 +85,7 @@
     <td>Pandas, Matplotlib, Nltk, Plotly, Numpy, Tqdm, Sklearn, Torch transformers,Re,Lightgbm, Catboost/td>
   </tr>
   <tr>
-    <td><a href="https://github.com/nikitabkiselev/yandex_practicum_data_science_training_projects/blob/main/15%20-%20Final_project_Industry_Steel_temperature_prediction_model.ipynb">15. Финальный проект. Построение модели предсказания температуры на метеллургическом производстве.</a></td>
+    <td><a href="https://github.com/nikitabkiselev/yandex_practicum_data_science_training_projects/blob/main/15%20-%20Final_project_Industry_Steel_temperature_prediction_model.ipynb">15. Финальный проект. Построение модели предсказания температуры на металлургическом производстве.</a></td>
     <td>Построение модели предсказания температуры стали для уменьшения расхода потребленной электроэнергии на этапе обработки стали металлургического производства.</td>
     <td>Pandas, Catboost, Lightgbm, Sklearn, Xgboost, Numpy, Seaborn Matplotlib, Plotly</td>
   </tr>
