@@ -24,7 +24,7 @@
     <td>Pandas, Matplotlib, исследовательский анализ данных, визуализация данных, предобработка данных</td>
   </tr>
     <tr>
-    <td><a href="hhttps://github.com/nikitabkiselev/yandex_practicum_data_science_training_projects/blob/main/04%20-%20Profitable_tariff_for_telecom_companies/04%20-%20Profitable_tariff_for_telecom_companies.ipynb">4. Определение выгодного тарифа для телеком компании</a></td>
+    <td><a href="https://github.com/nikitabkiselev/yandex_practicum_data_science_training_projects/blob/main/04%20-%20Profitable_tariff_for_telecom_companies/04%20-%20Profitable_tariff_for_telecom_companies.ipynb">4. Определение выгодного тарифа для телеком компании</a></td>
     <td>На основе данных клиентов оператора сотовой связи проанализировать поведение клиентов и определить  оптимальный тарифа.</td>
     <td>Pandas, Matplotlib, NumPy, SciPy, Math описательная статистика, проверка статистических гипотез</td>
   </tr>
