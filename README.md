@@ -82,7 +82,7 @@
   <tr>
     <td><a href="https://github.com/nikitabkiselev/yandex_practicum_data_science_training_projects/blob/main/14%20-%20Comment_classification_model/14%20-%20Comment_classification_model.ipynb">14. Обучение модели классификации комментариев</a></td>
     <td>На основании наобра данных с разметкой о токсичности правок построение модели определяющей токсичность комментариев на основании их классификации на позитивные и негативные.</td>
-    <td>Pandas, Matplotlib, Nltk, Plotly, Numpy, Tqdm, Sklearn, Torch transformers,Re,Lightgbm, Catboost/td>
+    <td>Pandas, Matplotlib, Nltk, Plotly, Numpy, Tqdm, Sklearn, Torch transformers,Re,Lightgbm, Catboost</td>
   </tr>
   <tr>
     <td><a href="https://github.com/nikitabkiselev/yandex_practicum_data_science_training_projects/blob/main/15%20-%20Final_project_Industry_Steel_temperature_prediction_model/15%20-%20Final_project_Industry_Steel_temperature_prediction_model.ipynb">15. Финальный проект. Построение модели предсказания температуры на металлургическом производстве.</a></td>
