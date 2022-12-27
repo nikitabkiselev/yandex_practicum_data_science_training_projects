@@ -30,7 +30,7 @@
   </tr>
   </tr>
     <tr>
-    <td><a href="https://github.com/nikitabkiselev/yandex_practicum_data_science_training_projects/blob/main/05%20-%20Success_regularities_of_computer_games/05%20-%20Success_regularities_of_computer_games.ipynb">5. Изучение закономерностей определяющих успешность игр</a></td>
+    <td><a href="https://github.com/nikitabkiselev/yandex_practicum_data_science_training_projects/blob/main/05%20-%20Success_regularities_of_computer_games/05%20-%20Success_regularities_of_computer_games.ipynb">5. Изучение закономерностей определяющих успешность компьютерных игр</a></td>
     <td>На основании исторических данных о продаже компьютерных игр, оценок пользователей и экспертов, жанрах и платформах проанализировать и выявить закономерности, определеяющие успешность игр у потребителей. </td>
     <td>Pandas, Matplotlib, Seaborn, Scipy, Numpy</td>
   </tr>
