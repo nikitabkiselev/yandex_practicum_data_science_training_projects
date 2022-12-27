@@ -6,7 +6,7 @@
   <tr>
     <td>Название проекта</td>
     <td>Описание</td>
-    <td>Библиотеки</td>
+    <td>Библиотеки, навыки</td>
   </tr>
   <tr>
     <td><a href="https://github.com/nikitabkiselev/yandex_practicum_data_science_training_projects/blob/main/01%20-%20Music_service_data_research/01%20-%20Music_service_data_research.ipynb">1. Исследование данных сервиса “Яндекс.Музыка” — сравнение пользователей двух городов</a></td>
