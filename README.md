@@ -36,7 +36,7 @@
   </tr>
   </tr>
     <tr>
-    <td><a href="https://github.com/nikitabkiselev/yandex_practicum_data_science_training_projects/blob/main/06%20-%20Age_determination_by_photograph/06%20-%20Age_determination_by_photograph.ipynb">6. Обработка фотографий покупателя</a></td>
+    <td><a href="https://github.com/nikitabkiselev/yandex_practicum_data_science_training_projects/blob/main/06%20-%20Age_determination_by_photograph/06%20-%20Age_determination_by_photograph.ipynb">6. Определение возраста покупателей</a></td>
     <td>Определение возраста человека по фотографии на основании набора фотографий людей с указанием возраста для представления рекомендаций покупателям соответствующей возрастной группы и контроля кассиров при продаже алкоголя.</td>
     <td>Keras, Pandas, Matplotlib, ImageDataGenerator, ResNet50, layers: Conv2D, Flatten, Dense, AvgPool2D, GlobalAveragePooling2D Sequential, Adam, Numpy</td>
   </tr>
