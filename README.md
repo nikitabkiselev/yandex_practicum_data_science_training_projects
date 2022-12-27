@@ -11,7 +11,7 @@
   <tr>
     <td><a href="https://github.com/nikitabkiselev/yandex_practicum_data_science_training_projects/blob/main/01%20-%20Music_service_data_research/01%20-%20Music_service_data_research.ipynb">1. Исследование данных сервиса “Яндекс.Музыка” — сравнение пользователей двух городов</a></td>
     <td>На реальных данных Яндекс.Музыки c помощью библиотеки Pandas и её возможностей проверить данные и сравнить поведение и музыкальные предпочтения пользователей двух столиц — Москвы и Санкт-Петербурга.</td>
-    <td>Pandas, NumPy</td>
+    <td>Pandas</td>
   </tr>
     <tr>
     <td><a href="https://github.com/nikitabkiselev/yandex_practicum_data_science_training_projects/blob/main/02%20-%20Borrower_reliability_study/02%20-%20Borrower_reliability_study.ipynb">2. Исследование надёжности заёмщиков — анализ банковских данных</a></td>
